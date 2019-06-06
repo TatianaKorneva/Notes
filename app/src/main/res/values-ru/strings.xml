@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Заметки 📝</string>
+    <string name="name">🌸 Ваши заметочки 🌸</string>
+    <string name="newNote">Добавить новую заметку</string>
+    <string name="newNoteMenu">Добавить новую заметку</string>
+    <string name="exit">Выйти</string>
+    <string name="save">Сохранить</string>
+    <string name="cancel">Отменить</string>
+    <string name="description">Описание вашей заметочки</string>
+    <string name="err">Такая заметка существует!</string>
+</resources>

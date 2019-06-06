@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFF0F5"
+    >
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="57dp"
+        android:src="@drawable/fon" />
+
+    <EditText
+        android:id="@+id/note"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/description"
+        android:textSize="8pt"
+        android:layout_marginTop="10dp"/>
+
+
+</LinearLayout>

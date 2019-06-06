@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Notes 📝</string>
+    <string name="name">🌸 Your notes 🌸</string>
+    <string name="newNote">Add new note</string>
+    <string name="newNoteMenu">Add new note</string>
+    <string name="exit">Exit</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="description">Description of your note</string>
+    <string name="err">Such note exists!</string>
+</resources>
